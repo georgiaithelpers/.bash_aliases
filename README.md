@@ -4,6 +4,8 @@
 
 ტერმინალის ბრძანებები:
 
+git clone https://github.com/georgiaithelpers/bash_aliases.git
+
 cd bash_aliases
 
 cp bash_aliases ~/.bash_aliases

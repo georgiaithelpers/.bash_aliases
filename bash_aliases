@@ -9,6 +9,7 @@ alias ....='cd ../../..'
 alias pbcopy='xclip -selection clipboard'
 alias pbpast='xclip -selection clipboard -o'
 alias html='mkdir css img && touch css/style.css index.html'
+alias rf='sudo rm -rf'
 
 # NETTWORK
 alias gc='git clone '

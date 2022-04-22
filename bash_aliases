@@ -11,7 +11,7 @@ alias pbpast='xclip -selection clipboard -o'
 alias html='mkdir css img && touch css/style.css index.html'
 alias rf='sudo rm -rf'
 alias p='sudo poweroff'
-
+alias x='sudo chmod +x'
 # NETTWORK
 alias gc='git clone '
 alias myip='curl eth0.me'

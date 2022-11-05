@@ -12,6 +12,11 @@ alias html='mkdir css img && touch css/style.css index.html'
 alias rf='sudo rm -rf'
 alias p='sudo poweroff'
 alias x='sudo chmod +x'
+alias install='sudo apt install'
+alias list='sudo apt list'
+alias uplist='sudo apt list --upgradable'
+alias remove='sudo apt remove'
+alias purge='sudo apt purge'
 
 # NETTWORK
 alias gc='git clone '
